@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Formik_Signup_Template/static/css/main.406f77f6.css",
+    "main.js": "/Formik_Signup_Template/static/js/main.9716ef3d.js",
+    "static/media/login1.png": "/Formik_Signup_Template/static/media/login1.70b7e579b7ec5b9d03ce.png",
+    "index.html": "/Formik_Signup_Template/index.html",
+    "main.406f77f6.css.map": "/Formik_Signup_Template/static/css/main.406f77f6.css.map",
+    "main.9716ef3d.js.map": "/Formik_Signup_Template/static/js/main.9716ef3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406f77f6.css",
+    "static/js/main.9716ef3d.js"
+  ]
+}
